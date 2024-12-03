@@ -2771,8 +2771,8 @@ textarea.is-invalid {
 
 .scroll-top {
   position: fixed;
-  right: 30px;
-  bottom: 150px;
+  left: 30px;
+  bottom: 10px;
   height: 50px;
   width: 50px;
   cursor: pointer;
