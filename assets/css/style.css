@@ -7393,6 +7393,19 @@ ol.wp-block-rss {
   color: var(--title-color);
 }
 
+.header-layout1 .header-middle .header-link .header-single-link2 {
+  font-size: 40px;
+  font-weight: 600;
+  color: var(--white-color);
+  font-family: var(--title-font);
+  -webkit-transition: 0.4s;
+  transition: 0.4s;
+}
+
+.header-layout1 .header-middle .header-link .header-single-link2:hover {
+  color: var(--title-color);
+}
+
 @media (max-width: 1299px) {
   .header-layout1 .header-middle .header-link {
     margin-left: 20px;
