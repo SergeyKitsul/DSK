@@ -11392,7 +11392,8 @@ ul.comment-list .th-comment-item:first-child > .th-post-comment {
 
 /* Hero 1 ---------------------------------- */
 .hero-1 {
-  padding-right: 100px;
+  padding-right: 50px;
+  padding-left: 10px;
   /* Medium devices */
 }
 
