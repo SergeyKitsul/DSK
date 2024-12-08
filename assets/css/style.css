@@ -70,7 +70,7 @@ Version: 1.0.0
 :root {
   --theme-color: #FF5E14;
   --theme-color2: #52C306;
-  --title-color: #0E121D;
+  --title-color: #230912;
   --body-color: #4D5765;
   --smoke-color: #F8F8F8;
   --black-color: #000000;
@@ -11393,7 +11393,6 @@ ul.comment-list .th-comment-item:first-child > .th-post-comment {
 /* Hero 1 ---------------------------------- */
 .hero-1 {
   padding-right: 50px;
-  padding-left: 10px;
   /* Medium devices */
 }
 
