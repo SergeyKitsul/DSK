@@ -7268,7 +7268,7 @@ ol.wp-block-rss {
 .header-layout1 .menu-area {
   background-color: var(--theme-color);
   position: relative;
-  z-index: 0;
+  /* z-index: 0; */
 }
 
 .header-layout1 .menu-area .logo-bg {
@@ -7475,7 +7475,7 @@ ol.wp-block-rss {
 }
 
 .header-layout1 .sticky-wrapper.sticky .menu-area {
-  background: var(--white-color);
+  background: var(--theme-color);
 }
 
 .header-layout1 .sticky-wrapper.sticky .menu-area:after {
